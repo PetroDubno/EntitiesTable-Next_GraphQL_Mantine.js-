@@ -1,0 +1,1 @@
+# EntitiesTable-Next_GraphQL_Mantine.js-
